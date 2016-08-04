@@ -1,0 +1,33 @@
+_repo: Rolf-in-the-Woods_1088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton, Wolf
+    - Seton-Thompson, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scouts (Reconnaissance) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Camping -- Fiction'
+- !lcsh 'Scouting (Reconnaissance) -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- GITenberg
+title: Rolf in the Woods
+url: http://www.gutenberg.org/ebooks/1088
